@@ -15,6 +15,7 @@ Given the received channel data by a 128-channel linear array with sampling freq
 ![image](images/100MHz-Delay-Channel-data.png)
 
 ![image](images/100MHz-Beam-sum-Scanline.png)
+
 2. Compare the amplitude of beam-sum scanline waveform at different sampling frequency (**20MHz** and **100MHz**) and discuss why they differ?
 
-![image](images/20MHz-Amplitude.png)
+![image](images/Amplitude.png)
